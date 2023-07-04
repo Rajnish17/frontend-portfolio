@@ -1,14 +1,27 @@
-.card-header{
+*{
+    font-family: 'Caprasimo', cursive;
+font-family: 'Nunito', sans-serif;
+
+}
+
+.card-header {
     padding: 10px 20px;
-   
-
 }
 
-.card{
-    padding: 5px 2px 5px 5px;
+.card {
+    padding: 5px 2px 5px 10px;
+    cursor: pointer;
 }
 
 
-.card-group{
-    overflow: visible
+.card img:hover {
+    width: 550px;
+}
+
+.card-header-text {
+    display: flex;
+    justify-content: center;
+    font-family: 'Caprasimo', cursive;
+    /* border: 10px solid; */
+    padding: 4px;
 }

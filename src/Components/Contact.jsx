@@ -5,6 +5,7 @@ const Contact = () => {
   return (
 
 <div className='container_form'>
+  <section className='left'>
 <div className='container_data'>
     <h3 className="heading">Contact Us</h3>
 <form>
@@ -52,7 +53,13 @@ const Contact = () => {
 
 
 </div>
+</section>
 
+<section className='right'>
+<div className='map-image'>
+  <img  src="https://www.nationsonline.org/maps/countries_europe_map-L.jpg"/>
+</div>
+</section>
     </div>
   )
 }

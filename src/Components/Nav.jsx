@@ -6,7 +6,7 @@ const Nav = () => {
    <div className='nav-container'>
    <nav className="navbar navbar-expand-lg bg-body-tertiary">
   <div className="container-fluid">
-      <img className='navbar-image'src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdl07QCZt_7RbbrvkX8hGc9qtsarBVpVwLKI88SPj1Mg&s" alt="logo"/>
+      <img className='navbar-image'src="https://png.pngtree.com/template/20191030/ourmid/pngtree-travel-logo-airplane-design-airplane-tickets-travel-agencies-image_325199.jpg" alt="logo"/>
     <button
       className="navbar-toggler"
       type="button"
@@ -32,7 +32,7 @@ const Nav = () => {
         </li>
         <li className="nav-item">
           <a className="nav-link" href="#">
-            contact us
+            Contact us
           </a>
         </li>
         

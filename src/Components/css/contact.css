@@ -2,6 +2,7 @@
 .container_form{
     background-color:#0000;
     padding: 20px 20px;
+    display: flex;
     /* border-radius: 15px; */
 }
 
@@ -15,9 +16,21 @@
 
 .container_data{
      width: 600px;
-     margin: auto;
+     /* margin: auto; */
      padding: 10px 20px;
      background-color: rgb(243 244 246);
      border: 20px solid #0000;
      border-radius: 15px;
+}
+.map-image img{
+    width: 600px;
+    height: 400px;
+    object-fit: cover;
+   
+}
+.right{
+   margin: 0px 10px 10px 40px;
+   /* padding:  10px 10px 10px 10px; */
+   border: 20px solid rgb(243 244 246);
+   border-radius: 15px;
 }
