@@ -3,10 +3,10 @@ import "./css/card.css"
 
 const Card = () => {
   return (
-    <div className='card-header'>
-
+  <div className='card-header'>
 
 <div className="card-group">
+
   <div className="card">
     <img src="https://cdn.pixabay.com/photo/2015/03/11/12/31/buildings-668616_1280.jpg" className="card-img-top" alt="..." />
     <div className="card-body">
@@ -71,9 +71,9 @@ const Card = () => {
 
     
   </div>
-</div>
-
+ 
     </div>
+</div>
   )
 }
 
