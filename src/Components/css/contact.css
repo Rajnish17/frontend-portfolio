@@ -1,0 +1,23 @@
+
+.container_form{
+    background-color:#0000;
+    padding: 20px 20px;
+    /* border-radius: 15px; */
+}
+
+.heading{
+    /* display: flex; */
+    font-style: italic;
+    color: rgb(17, 142, 252);
+    margin:10px 0px 0px 200px;
+}
+
+
+.container_data{
+     width: 600px;
+     margin: auto;
+     padding: 10px 20px;
+     background-color: rgb(243 244 246);
+     border: 20px solid #0000;
+     border-radius: 15px;
+}
