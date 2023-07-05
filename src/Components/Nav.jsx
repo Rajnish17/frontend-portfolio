@@ -20,17 +20,17 @@ const Nav = () => {
     </button>
     <div className="collapse navbar-collapse" id="navbarNav">
       <ul className="navbar-nav">
-        <li className="nav-item">
+        <li className="nav-item-Navbar">
           <a className="nav-link " aria-current="page" href="#">
             Home
           </a>
         </li>
-        <li className="nav-item">
+        <li className="nav-item-Navbar">
           <a className="nav-link" href="#">
             About us
           </a>
         </li>
-        <li className="nav-item">
+        <li className="nav-item-Navbar">
           <a className="nav-link" href="#">
             Contact us
           </a>

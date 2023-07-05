@@ -31,6 +31,6 @@
 .right{
    margin: 0px 10px 10px 40px;
    /* padding:  10px 10px 10px 10px; */
-   border: 20px solid rgb(243 244 246);
+   border: 20px solid;
    border-radius: 15px;
 }
